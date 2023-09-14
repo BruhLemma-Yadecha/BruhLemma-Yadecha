@@ -1,7 +1,1 @@
-Aspiring ML Engineer.
-Currently learning cs50 on edX.
-
-<!---
-KaylanKrul/KaylanKrul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring software engineer primarily interested in backend, machine learning, and systems engineering. I primarily build bots for simple games, mods for mainstream titles, and high-performance command-line applications.
