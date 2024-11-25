@@ -1,6 +1,6 @@
 👋 Hey! I’m Bruh Lemma, welcome to my GitHub page! I'm an aspiring software engineer interested in backend, natural language processing, machine learning and DevOps who enjoys building software solutions that make the modern tech landscape possible.
 
-🔧 **Current Project**: I'm working on [rocketmancer-web](https://github.com/BruhLemma-Yadecha/rocketmancer-web), which is a full-stack project using React and Django that builds a simple, intuitive interface for a multi-stage rocket optimizer project I built a year ago. I also contribute to [EduKona](edukona.com)!
+🔧 **Current Project**: I'm working on [rocketmancer-web](https://github.com/BruhLemma-Yadecha/rocketmancer-web), which is a full-stack project using React and Django that builds a simple, intuitive interface for a multi-stage rocket optimizer project I built a year ago. I also contribute to [EduKona](https://www.edukona.com)!
 
 🌱 **Recent Lessons:** I'm currently learning how to use PyTorch!
 
