@@ -1,8 +1,8 @@
-👋 Hey! I’m Bruh Lemma, welcome to my GitHub page! I'm an aspiring software engineer interested in backend, natural language processing, machine learning and DevOps who enjoys building software solutions that make the modern tech landscape possible.
+👋 Hey! I’m Bruh Lemma, welcome to my GitHub page! I'm an aspiring software engineer interested in backend, natural language processing, machine learning and DevOps who enjoys making robost systems and building AI-based solutions.
 
-🔧 **Current Project**: I'm working on [rocketmancer-web](https://github.com/BruhLemma-Yadecha/rocketmancer-web), which is a full-stack project using React and Django that builds a simple, intuitive interface for a multi-stage rocket optimizer project I built a year ago. I also contribute to [EduKona](https://www.edukona.com)!
+🔧 **Current Project**: I'm currently working on [EduKona](https://www.edukona.com)!
 
-🌱 **Recent Lessons:** I'm currently learning how to use PyTorch!
+🌱 **Recent Lessons:** I'm currently learning NetworkX, TypeScript, and MongoDB!
 
 While you're here, please check out my many public repositories containing my assorted projects over the years. I'm always looking for new technologies to learn and awesome projects to contribute to, so feel free to contact me [here!](mailto:bruh.yadecha@gmail.com)
 
@@ -15,7 +15,6 @@ While you're here, please check out my many public repositories containing my as
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Libraries, Frameworks:** 
@@ -41,9 +40,4 @@ While you're here, please check out my many public repositories containing my as
 
 **Tools, Technologies:** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-**In Progress:**
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
