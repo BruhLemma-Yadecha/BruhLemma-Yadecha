@@ -1,6 +1,6 @@
 👋 Hey! I’m Bruh Lemma, welcome to my GitHub page! I'm an aspiring software engineer interested in backend, natural language processing, machine learning and DevOps who enjoys making robost systems and building AI-based solutions.
 
-🔧 **Current Project**: I'm currently working on [EduKona](https://www.edukona.com)!
+🔧 **Current Project**: I'm currently working on [EduKona](https://edukona.com/)!
 
 🌱 **Recent Lessons:** I'm currently learning NetworkX, TypeScript, and MongoDB!
 
