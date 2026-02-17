@@ -1,9 +1,5 @@
 Aspiring software engineer focused on backend systems, computer vision, machine learning, and DevOps. I love translating research ideas into production-ready, reliable software.
 
-## Current Highlights
-- **Closet Canvas (w/ Charlotte AI Research)** - architecting a multimodal computer-vision stack that blends visual embeddings with collaborative filtering for personal styling.
-- **Solstice** - an AI presentation coach that helps you learn effective body language like the best speakers in the world.
-- **Research @ UNC Charlotte CCI** - computer vision-oriented research on building efficient streaming video LLMs.
 
 ## What I’m Into
 - Designing backend services with robust, intricate deployment pipelines.
