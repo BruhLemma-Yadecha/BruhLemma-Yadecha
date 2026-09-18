@@ -27,3 +27,4 @@ Software engineer focused on AI/ML systems, computer vision, and backend infrast
 ---
 
 Open to collaboration: [bruh.yadecha@gmail.com](mailto:bruh.yadecha@gmail.com)
+Institutional: [byadecha@charlotte.edu](mailto:byadecha@charlotte.edu)
